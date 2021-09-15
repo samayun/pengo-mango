@@ -1,6 +1,6 @@
 {
   "name": "pengo-mango",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates",
   "main": "index.js",
   "bin": {
