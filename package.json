@@ -8,8 +8,7 @@
     "pengo-mango": "bin/pengo-mango"
   },
   "publishConfig": {
-    "access": "public",
-    "registry":"https://npm.pkg.github.com"
+    "@samayun:registry": "https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "echo Pengo-mango Scaffolded Successfully"
