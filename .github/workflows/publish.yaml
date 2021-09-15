@@ -18,6 +18,7 @@ jobs:
           node-version: 12.x
           registry-url: https://registry.npmjs.org
       - name: 🚀 publish
+        run: npm version minor
         run: npm publish
         working-directory: .
         env:
