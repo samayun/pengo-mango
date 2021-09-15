@@ -1,6 +1,6 @@
 {
   "name": "pengo-mango",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates",
   "main": "index.js",
   "bin": {
@@ -19,7 +19,11 @@
     "url": "git+https://github.com/samayun/pengo-mango.git"
   },
   "keywords": [
-    "nodejs-boilerplates"
+    "nodejs-boilerplates",
+    "express-boilerplates",
+    "javascript-boilerplates",
+    "boilerplates",
+    "javascript-repositories"
   ],
   "author": "Samayun Chowdhury <samayun.m.chowdhury@gmail.com> (https://samayun-mc.web.app/)",
   "license": "MIT",
