@@ -3,11 +3,15 @@
 This is a CLI tool for nodejs boilerplates , initialized with penguin.js boilerplate
 
 ```bash
-    npm install -g pengo-mango
+    npm install -g pengo-mango             | (For Windows)
+    sudo npm install -g pengo-mango        | (For Linux & Mac)
 
-    pengo-mango
+    pengo-mango                            | (For Windows)
+    sudo pengo-mango                       |  (For Linux & Mac)
 
-    pengo-mango boilerplate-name
+    pengo-mango boilerplate-name           | (For Windows)
+    sudo pengo-mango boilerplate-name      | (For Linux & Mac)
+
 ```
 
 A default boilerplate ([penguin.js](https://github.com/samayun/penguin.js)) would be generated
