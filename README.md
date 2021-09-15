@@ -1,6 +1,6 @@
 ## Pengo Mango
 
-This is a CLI tool for nodejs boilerplates , initialized with penguin.js boilerplate
+Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates
 
 ```bash
     npm install -g pengo-mango             | (For Windows)
@@ -21,6 +21,7 @@ A default boilerplate ([penguin.js](https://github.com/samayun/penguin.js)) woul
 - Make your reusable boilerplate
 - Clone pengo-mango repository
 - make a unique directory inside `templates/your-boilerplate-name`
+- Please ensure removing `.git` file
 - Copy your files here
 - give a pull request
 - Thanks for contributing

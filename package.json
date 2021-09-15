@@ -1,14 +1,15 @@
 {
   "name": "pengo-mango",
   "version": "0.0.1",
-  "description": "This is a CLI tool for nodejs boilerplates , initialized with penguin.js boilerplate",
+  "description": "Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates",
   "main": "index.js",
   "bin": {
     "@samayun/pengo-mango": "bin/pengo-mango",
     "pengo-mango": "bin/pengo-mango"
   },
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry":"https://npm.pkg.github.com"
   },
   "scripts": {
     "test": "echo Pengo-mango Scaffolded Successfully"
