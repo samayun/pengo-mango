@@ -1,0 +1,43 @@
+{
+  "name": "penguin-js",
+  "version": "0.0.1",
+  "main": "server.js",
+  "bin": {
+    "@samayun/penguin": "bin/penguin",
+    "penguin": "bin/penguin"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "node server",
+    "start:dev": "nodemon server",
+    "cli": "node bin/penguin"
+  },
+  "keywords": [
+    "nodejs-framework",
+    "express-framework",
+    "framework"
+  ],
+  "author": "Samayun Miah Chowdhury<samayun.m.chowdhury@gmail.com>",
+  "license": "ISC",
+  "description": "Penguin is an opinionated express framework provides rapid development facility",
+  "dependencies": {
+    "aws-sdk": "^2.987.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "inquirer": "^8.1.4",
+    "jwt-auth-helper": "^1.0.0",
+    "mongoose": "^6.0.4",
+    "multer": "^1.4.3",
+    "multer-s3": "^2.9.0",
+    "swagger-jsdoc": "^6.1.0",
+    "swagger-ui-express": "^4.1.6"
+  },
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^2.0.12"
+  }
+}

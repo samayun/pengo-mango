@@ -1,0 +1,32 @@
+{
+  "name": "pengo-mango",
+  "version": "0.0.1",
+  "description": "This is a CLI tool for nodejs boilerplates , initialized with penguin.js boilerplate",
+  "main": "index.js",
+  "bin": {
+    "@samayun/pengo-mango": "bin/pengo-mango",
+    "pengo-mango": "bin/pengo-mango"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo Pengo-mango Scaffolded Successfully"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samayun/pengo-mango.git"
+  },
+  "keywords": [
+    "nodejs-boilerplates"
+  ],
+  "author": "Samayun Chowdhury <samayun.m.chowdhury@gmail.com> (https://samayun-mc.web.app/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samayun/pengo-mango/issues"
+  },
+  "homepage": "https://github.com/samayun/pengo-mango#readme",
+  "devDependencies": {
+    "chalk": "^4.1.2"
+  }
+}
