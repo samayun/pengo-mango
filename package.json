@@ -1,10 +1,9 @@
 {
   "name": "pengo-mango",
-  "version": "0.0.5",
-  "description": "Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates. default is @samayun/penguin.js",
+  "version": "0.0.6",
+  "description": "Penguin for Mango people (Pengo Mango) is a CLI tool for generating boilerplates",
   "main": "index.js",
   "bin": {
-
     "pengo-mango": "bin/pengo-mango"
   },
   "publishConfig": {
@@ -29,8 +28,5 @@
   "bugs": {
     "url": "https://github.com/samayun/pengo-mango/issues"
   },
-  "homepage": "https://github.com/samayun/pengo-mango#readme",
-  "devDependencies": {
-    "chalk": "^4.1.2"
-  }
+  "homepage": "https://github.com/samayun/pengo-mango#readme"
 }
